@@ -9,7 +9,7 @@
 <img src="images/tomcat.gif">
 </td>
 <td>
-<h1>This is Sample Application JSP Page "GIT WEB-HOOKS"</h1>
+<h1>This is Sample Application JSP Page "GIT WEB-HOOKS - 1"</h1>
 This is the output of a JSP page that is part of the Hello, World
 application.
 </td>
