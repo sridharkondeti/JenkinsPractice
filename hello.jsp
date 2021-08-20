@@ -15,7 +15,8 @@ application.
 </td>
 </tr>
 </table>
-<%= new String("Hello!\n") %>
+<%= new String("Hello!") %>
+<br />
 <%= new String("Welcome!") %>
 </body>
 </html>
