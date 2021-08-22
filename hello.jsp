@@ -18,37 +18,5 @@ application.
 <%= new String("Hello!") %>
 <br />
 <%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
-  <br />
-  <%= new String("Hello!") %>
-<br />
-<%= new String("Welcome!") %>
 </body>
 </html>
