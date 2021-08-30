@@ -9,7 +9,7 @@
 <img src="images/tomcat.gif">
 </td>
 <td>
-<h1>This is Sample Application JSP Page - FROM JENKINS POD PIPELINE - 3</h1>
+<h1>This is Sample Application JSP Page - FROM JENKINS POD PIPELINE - 4</h1>
 This is the output of a JSP page that is part of the Hello, World
 application.
 </td>
